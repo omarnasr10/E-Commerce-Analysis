@@ -18,12 +18,12 @@ In This Project, We Analyze Amazon E-commerce Sales Data In India To Uncover Ins
 ## Steps And Used Technology
 
 -**Data Used**
-  - Sales Transactions: Details On Category Sold, Total Amount,And Quantities.
-  - Fulfillment Channels: Breakdown Of Sales Through Amazon, Non amazon, Merchant Fulfillment.
-  - Customer Segmentation: Data On Demographics, Geography, And Order History.
-  - Time Period: Data Spans Across [from 31-3-2022 To 29-6-2022].
-  - Details About Number Of Stocks, Color And Size.
-  - Comparing Prices Of Different Categories Across Different MRP.
+   - Sales Transactions: Details On Category Sold, Total Amount,And Quantities.
+   - Fulfillment Channels: Breakdown Of Sales Through Amazon, Non amazon, Merchant Fulfillment.
+   - Customer Segmentation: Data On Demographics, Geography, And Order History.
+   - Time Period: Data Spans Across [from 31-3-2022 To 29-6-2022].
+   - Details About Number Of Stocks, Color And Size.
+   - Comparing Prices Of Different Categories Across Different MRP.
     
 - **SQL**
   - For Exploring Data In General, Write A Lot Useful Queries To Understanding Data Very Well.
